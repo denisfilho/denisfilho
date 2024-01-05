@@ -14,3 +14,10 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+## Sobre mim
+
+🧑🏼‍🎓Formado em Engenharia de Produção, e no momento estou migrando para a área de tecnologia. <br>
+📚Atualmente estou cursando Sistemas de Informação.<br>
+👨🏼‍💻Tenho Experiência no ramo de Desenvolvimento Android.<br>
+👨🏼‍💻Tenho muito interesse nas áreas de Dados, Desenvolvimento Back-end e Testes.<br>
